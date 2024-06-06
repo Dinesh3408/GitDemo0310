@@ -1,0 +1,3 @@
+This is the random file 2
+This file has two lines
+ADded a new line in this file
