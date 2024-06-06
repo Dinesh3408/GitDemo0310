@@ -1,0 +1,2 @@
+A new file created in branch 'Feature1'
+One more line has been added.
